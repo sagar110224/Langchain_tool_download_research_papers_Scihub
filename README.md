@@ -1,5 +1,5 @@
 # Langchain_tool_download_research_papers_Scihub
-This tools is used to download research papers from Scihub
+This tools uses Selenium to download research papers from Scihub
 
 It takes list of DOI as input and download all the available research papers from Scihub. It also returns a dictionary which will tell the status as to whether the paper is downloaded or not. If downloaded it will also return the corresponding file name, download directory name and file path. 
 
