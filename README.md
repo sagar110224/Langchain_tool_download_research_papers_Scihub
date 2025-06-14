@@ -13,3 +13,5 @@ Eg of output is:
 Change the path of ChromeWebdriver at line number 17
 ChromeWebdriver can be downloaded from website: https://googlechromelabs.github.io/chrome-for-testing/#stable
 You can get free proxies from the website: www.webshare.io Copy the proxy list in a .txt file. Copy this .txt file path at line 15 in proxy_extraction.py file
+
+**P.S.: Since, Scihub website checks it you are a bot or not. So, you need to manually verify that you are not a bot by typing the capcha once. You will have 30 seconds to type the capcha**
