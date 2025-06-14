@@ -6,9 +6,9 @@ It takes list of DOI as input and download all the available research papers fro
 Input: ['10.1038/s41586-020-2649-2','10.1002/wat2.1605','10.1007/s12665-011-1229-z']
 
 Eg of output is:
-{"10.1038/s41586-020-2649-2": "The pdf of reasearch paper is saved in the directory 'Scihub_paper' at location /Users/drago/Documents/Practicefiles/Data_files/Scihub_papers/10.1038@s41586-020-2649-2 (9).pdf. The name of the pdf is '10.1038@s41586-020-2649-2 (9).pdf'",
+{"10.1038/s41586-020-2649-2": "The pdf of reasearch paper is saved in the directory 'Scihub_paper' at location /Users/drago/Documents/Practicefiles/Data_files/Scihub_papers/10.1038@s41586-020-2649-2.pdf. The name of the pdf is '10.1038@s41586-020-2649-2.pdf'",
 "10.1002/wat2.1605": "Cannot download research paper",
-"10.1007/s12665-011-1229-z": "The pdf of reasearch paper is saved in the directory 'Scihub_paper' at location /Users/drago/Documents/Practicefiles/Data_files/Scihub_papers/tabari2011 (8).pdf. The name of the pdf is 'tabari2011 (8).pdf'"}
+"10.1007/s12665-011-1229-z": "The pdf of reasearch paper is saved in the directory 'Scihub_paper' at location /Users/drago/Documents/Practicefiles/Data_files/Scihub_papers/tabari2011.pdf. The name of the pdf is 'tabari2011.pdf'"}
 
 Change the path of ChromeWebdriver at line number 17
 ChromeWebdriver can be downloaded from website: https://googlechromelabs.github.io/chrome-for-testing/#stable
